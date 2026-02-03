@@ -1,6 +1,6 @@
-### Git Practice Assignment
+## Git Practice Assignment
 
-#### Article Discussion
+### Article Discussion
 
 Article Link: [Happy Software Developers Solve Problems Better](https://pmc.ncbi.nlm.nih.gov/articles/PMC3961150/)
 
